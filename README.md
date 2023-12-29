@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-🎓 A **Back-End Web Developer** (know as Go lover/Gopher). I am graduated in 2022
+🎓 A **Back-End Web Developer** (know as Go lover/Gopher).
 
 👨‍💻 I love to learn and learn about technologies and languages on the internet, challenge myself with new things like Go, Vim,...and **contribute to open source codes**.
 
