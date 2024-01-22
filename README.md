@@ -4,8 +4,6 @@
 
 ## 🚀 About Me
 
-🎓 A **Back-End Web Developer** (know as Go lover/Gopher).
-
 👨‍💻 I love to learn and learn about technologies and languages on the internet, challenge myself with new things like Go, Vim,...and **contribute to open source codes**.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Reading**, **Workout**, and **Writting about what i see**. I also a fan of develop soft skills so I can communicate to others better. I also quite good at communicate with English.
