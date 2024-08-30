@@ -2,13 +2,7 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Vinh Bui
 
-## 🚀 About Me
-
-👨‍💻 I love to learn and learn about technologies and languages on the internet, challenge myself with new things like Go, Vim,...and **contribute to open source codes**.
-
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Reading**, **Workout**, and **Writting about what i see**. I also a fan of develop soft skills so I can communicate to others better. I also quite good at communicate with English.
-
-📚 I also love reading books on **personal development** & **financial literacy**, also sometimes is **building a bussiness**. My favorite ones is **12 rules for life** by _Jordan Peterson_ in personal development. In financial, I read **skin in the game** by _Nassim Nicholas Taleb_ and recommened it to other readers.
+## 🚀 Nice to meet u
 
 ## 🛠️ Skills
 
