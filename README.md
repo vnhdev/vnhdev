@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png">
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Vinh Bui. Nice to meet u
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Vinh Bui. Nice to meet u.
 
 ## 🛠️ Skills
 
